@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Memphis Python User Group</title>
+	<subtitle>Lorem ipsum dolor sit amet consecuteor</subtitle>
+	
+	<link href="/atom.xml" rel="self"/>
+	<link href=""/>
+	<updated>2023-05-15T16:33:45Z</updated>
+	<id>https://example.com/</id>
+	<author>
+		<name>John Doe</name>
+		<email>johndoe@example.com</email>
+	</author>
+	
+	<entry>
+		<title>May 2023</title>
+		<link href="/posts/2023-may/"/>
+		<updated>2023-05-15T00:00:00Z</updated>
+		<id>/posts/2023-may/</id>
+		<content type="html">&lt;p&gt;Link to video coming soon&lt;/p&gt;
+</content>
+	</entry>
+</feed>
