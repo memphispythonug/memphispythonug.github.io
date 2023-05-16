@@ -5,7 +5,7 @@
 	
 	<link href="/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-05-15T16:52:59Z</updated>
+	<updated>2023-05-16T01:15:10Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>John Doe</name>
@@ -17,7 +17,19 @@
 		<link href="/posts/2023-may/"/>
 		<updated>2023-05-15T00:00:00Z</updated>
 		<id>/posts/2023-may/</id>
-		<content type="html">&lt;p&gt;Link to video coming soon&lt;/p&gt;
+		<content type="html">&lt;h2&gt;Exploratory Data Analysis with Pandas and Plotly&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/img/600_512563562.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/IntegerMan/PythonPlotly&quot;&gt;Sample Code on Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/VGflnX8Cf8s&quot;&gt;Meetup Recording on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let&#39;s take a look at how Python can be an effective platform for analyzing and visualizing data.&lt;/p&gt;
+&lt;p&gt;In this talk we&#39;ll use Jupyter Notebooks, Pandas, and Plotly to visualize several datasets to find trends in our data.&lt;/p&gt;
+&lt;p&gt;We&#39;ll cover loading and transforming data in Pandas and NumPy, including cleaning missing values and performing feature engineering. We&#39;ll also look into the built-in aggregation and statistical techniques in Pandas DataFrames.&lt;/p&gt;
+&lt;p&gt;Next we&#39;ll take our data and see how Plotly can generate compelling scatter plots, box plots, histograms, tree maps, and more with just a bit of code.&lt;/p&gt;
+&lt;p&gt;By the time we&#39;re done you&#39;ll see why I often prefer data visualization in Python over dedicated tools like Tableau or Power BI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker - Matt Eland&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After several decades as a software engineer and engineering manager, Matt now serves as a software engineering instructor and gets to raise up future developers and unleash them upon the world to build awesome things.&lt;/p&gt;
+&lt;p&gt;Matt is a Microsoft MVP in Artificial Intelligence and a Microsoft Certified Azure Data Scientist and AI Engineer associate. Matt runs several blogs and a YouTube channel on data science and software engineering topics, is currently pursuing a master&#39;s degree in data analytics, and helps organize the Central Ohio .NET Developer Group while contributing to local and regional conferences.&lt;/p&gt;
+&lt;p&gt;In his copious amounts of spare time, Matt continues to build nerdy things and looks for ways to share them with the larger community.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
