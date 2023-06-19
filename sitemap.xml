@@ -7,37 +7,77 @@
   </url>
   
   <url>
+    <loc>https://example.com/posts/2023-june/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/pages/about/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/pandas/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/plotly/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/data-viz/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/meetups/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/databases/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/sqlite/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/postgresql/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/sqlalchemy/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/mongodb/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/mongita/</loc>
+    <lastmod>2023-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/mongoengine/</loc>
+    <lastmod>2023-06-19</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-05-15</lastmod>
+    <lastmod>2023-06-19</lastmod>
   </url>
 </urlset>
